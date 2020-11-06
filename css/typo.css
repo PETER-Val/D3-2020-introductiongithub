@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&family=Taviraj:ital@1&display=swap');
+h2 {
+font-size: 3em;
+font-family: 'Passion One', cursive;
+}
+p {
+    font-family: 'Taviraj', serif;
+    color: rgb(128, 128, 128);
+}
